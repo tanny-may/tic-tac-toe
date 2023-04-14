@@ -1,5 +1,5 @@
-# tic-tac-toe!
-[preview](https://user-images.githubusercontent.com/111642725/231966833-2ea8b396-458b-4843-a6ae-9c9a8c6ae582.png)
+# tic-tac-toe
+![preview](https://user-images.githubusercontent.com/111642725/231966833-2ea8b396-458b-4843-a6ae-9c9a8c6ae582.png)
 
 Написана логика работы игры «крестики-нолики» (файл `logic.js`).
 Основные функции: 
